@@ -1,18 +1,18 @@
 ---
 layout: home
 hero:
-  name: blog
-  text: 前端历险记
+  name: my-blog
+  text: 想做音乐的前端
   image:
-    src: /logo.jpeg
-    alt: 前端历险记
+    src: /logo.jpg
+    alt: 想做音乐的前端
   actions:
     - theme: brand
       text: 现在开始
       link: ./getting-started
     - theme: alt
       text: View on GitHub
-      link: https://github.com/Sunny-117/blog
+      link: https://github.com/W-xiaowei/web
 features:
   - title: 🦾 高级前端进阶知识
     details: 工程化，组件库，基础建设...
