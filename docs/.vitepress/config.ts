@@ -8,7 +8,7 @@ const r = (p: string) => resolve(__dirname, p);
 
 // generateFileSidebar(r('../useForm'))
 export default defineConfig({
-  // base: "/web/",
+  base: "",
   title: "首页",
   description: "composition api form validator for vue",
   // appearance: false,
