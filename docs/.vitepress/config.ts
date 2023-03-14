@@ -1,21 +1,21 @@
 import { resolve } from "path";
-import type { DefaultTheme } from "vitepress";
+// import type { DefaultTheme } from "vitepress";
 import { defineConfig } from "vitepress";
 import { defaultSidebar } from "./defaultSidebar";
-import { generateFileSidebar } from "./file-sidebar";
+// import { generateFileSidebar } from "./file-sidebar";
 
 const r = (p: string) => resolve(__dirname, p);
 
 // generateFileSidebar(r('../useForm'))
 export default defineConfig({
-  base: "/blog/",
-  title: "blog",
+  base: "/web/",
+  title: "首页",
   description: "composition api form validator for vue",
   // appearance: false,
   lastUpdated: true,
 
+
   markdown: {
-    // TODO
     anchor: {},
     toc: { level: [1, 2, 3] },
     theme: {
@@ -28,20 +28,16 @@ export default defineConfig({
     outline: [1, 3],
     sidebar: defaultSidebar,
     nav: [
-      // {
-      //   text: 'Playground',
-      //   link: 'https://mini-anything-play.netlify.app/',
-      // },
       ...defaultSidebar.slice(1, 5),
     ],
     socialLinks: [
-      { icon: "github", link: "https://github.com/Sunny-117/blog" },
+      { icon: "github", link: "https://github.com/W-xiaowei/web" },
     ],
     footer: {
-      copyright: "Copyright © 2022-present sunny-117",
+      copyright: "Start from today © 2023-present",
     },
     editLink: {
-      pattern: "https://github.com/Sunny-117/blog",
+      pattern: "https://github.com/W-xiaowei/web",
       text: "Edit this page on Gitlab",
     },
     lastUpdatedText: "Last Updated",

@@ -3,9 +3,9 @@ layout: home
 hero:
   name: my-blog
   text: 想做音乐的前端
-  image:
-    src: /logo.jpg
-    alt: 想做音乐的前端
+  # image:
+  #   src: /logo-pic.jpg
+  #   alt: 想做音乐的前端
   actions:
     - theme: brand
       text: 现在开始
