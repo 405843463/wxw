@@ -41,9 +41,9 @@ export default defineConfig({
       text: "Edit this page on Gitlab",
     },
     lastUpdatedText: "Last Updated",
-    localeLinks: {
-      text: "English",
-      items: [{ text: "简体中文", link: "https://netlify.app" }],
-    },
+    // localeLinks: {
+    //   text: "English",
+    //   items: [{ text: "简体中文", link: "https://netlify.app" }],
+    // },
   },
 });

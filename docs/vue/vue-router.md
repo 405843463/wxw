@@ -2,8 +2,7 @@
 
 ## 源码实现
 
-先看我写的 [mini-router](https://github.com/Sunny-117/mini-anything)，后续会补充文章
-
+占坑
 ## **Vue 的路由实现原理**
 
 ### **解释 _hash_ 模式和 _history_ 模式的实现原理**

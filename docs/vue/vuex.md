@@ -1,10 +1,7 @@
 # Vuex 思想和源码
 
 ## 源码实现
-
-先看我写的 [mini-vuex](https://github.com/Sunny-117/mini-anything)，后续会补充文章
-
-可以结合 [mini-pinia](https://sunny-117.github.io/mini-anything-docs/vue-ecology/index.html) 一起食用
+占坑
 
 ## Vuex 的原理
 
