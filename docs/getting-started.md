@@ -1,4 +1,4 @@
----
+<!-- ---
 next: ./vue-core/index
 ---
 
@@ -34,4 +34,4 @@ https://zwl-turnback.cn/
 
 https://github.com/W-xiaowei/Tampermonkey-BOSS
 
-boss 直聘投递、关闭，一条龙服务的油猴脚本，让你海投简历，只需要 2 分钟
+boss 直聘投递、关闭，一条龙服务的油猴脚本，让你海投简历，只需要 2 分钟 -->
