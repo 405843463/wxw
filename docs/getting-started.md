@@ -4,7 +4,7 @@ next: ./vue-core/index
 
 # Getting Started
 
-这里就放一些自我介绍吧，先占个坑 git action
+这里就放一些自我介绍吧，先占个坑
 
 ## My Frontend Projects
 
@@ -16,7 +16,7 @@ https://github.com/W-xiaowei/js-code
 
 ![](./public/js-codeing.png)
 
-### my website 占坑
+### my website 
 
 https://zwl-turnback.cn/
 
