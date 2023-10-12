@@ -2,7 +2,7 @@
 layout: home
 hero:
   name: my-blog
-  text: 想做音乐的前端🐶
+  text: 99%的千刀万剐，
   # image:
   #   src: /logo-pic.jpg
   #   alt: 想做音乐的前端
