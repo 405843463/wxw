@@ -2,7 +2,7 @@
 layout: home
 hero:
   name: my-blog
-  text: 99%的千刀万剐，
+  text: 风中传来苦咸，
   # image:
   #   src: /logo-pic.jpg
   #   alt: 想做音乐的前端
