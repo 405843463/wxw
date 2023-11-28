@@ -2,7 +2,7 @@
 layout: home
 hero:
   name: my-blog
-  text: 逝者如斯夫，不舍昼
+  text: 逝者如斯夫，不舍昼夜。
   # image:
   #   src: /logo-pic.jpg
   #   alt: 想做音乐的前端
