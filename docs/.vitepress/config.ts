@@ -31,13 +31,13 @@ export default defineConfig({
       ...defaultSidebar.slice(1, 5),
     ],
     socialLinks: [
-      { icon: "github", link: "https://github.com/W-xiaowei/web" },
+      { icon: "github", link: "https://github.com/Breeze-zwl/web" },
     ],
     footer: {
       copyright: "Start from today © 2023-present",
     },
     editLink: {
-      pattern: "https://github.com/W-xiaowei/web",
+      pattern: "https://github.com/Breeze-zwl/web",
       text: "Edit this page on Gitlab",
     },
     lastUpdatedText: "Last Updated",

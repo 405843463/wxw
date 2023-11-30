@@ -10,7 +10,7 @@ next: ./vue-core/index
 
 ### js-codeing
 
-https://github.com/W-xiaowei/js-code
+https://github.com/Breeze-zwl/js-code
 
 ✨✨✨ 集锦 2021-2023 年 前端 JavaScript 手写题，编程题，原来不在github上，个人原因近期开始整理并尽量虚招最优解，
 
@@ -30,6 +30,6 @@ https://zwl-turnback.cn/
 
 ### BOSScript
 
-https://github.com/W-xiaowei/Tampermonkey-BOSS
+https://github.com/Breeze-zwl/Tampermonkey-BOSS
 
 boss 直聘投递、关闭，一条龙服务的油猴脚本，让你海投简历，只需要 2 分钟

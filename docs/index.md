@@ -12,7 +12,7 @@ hero:
       link: ./getting-started
     - theme: alt
       text: View on GitHub
-      link: https://github.com/W-xiaowei/web
+      link: https://github.com/Breeze-zwl/web
 features:
   - title: 🦾 高级前端进阶知识
     details: 工程化，组件库，基础建设...
